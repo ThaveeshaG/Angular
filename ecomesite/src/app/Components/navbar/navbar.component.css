@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    gap: 25%;
+    padding: 10px;
+    background-color:transparent;
+}
+.logo{
+    font-size: 35px;
+    font-weight: bold;
+}
+.otherpagesone{
+    display: flex;
+    list-style-type: none;
+    gap: 40px;
+    justify-content: center;
+}
+.otherpagestwo{
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+}
