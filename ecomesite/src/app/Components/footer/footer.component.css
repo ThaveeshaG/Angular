@@ -1,8 +1,31 @@
+
 ul{
     list-style-type: none;
+}
+.logo{
+    font-size: 30px;
 }
 .footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.mailcolum{
+    font-size: 25px;
+}
+
+.gapcolum{
+    padding: 5px;
+}
+.mailcolum{
+padding:15px;
+}
+.inputfeild{
+    padding: 5px;
+}
+.btn{
+    padding: 15px;
+    background-color: black;
+    color: white;
 }
