@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+.herosection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.grid-item{
+    text-align: center;
+    font-size: 25px;
+    padding: 25px;
+}
+
+.grid-container {
+    margin: 1%;
+    background-color: rgb(8, 99, 49);
+    padding: 80px;
+  }
+ p{
+    font-size: 60px;
+ }
+ h1{
+    font-size: 60px;
+ }
+   .btn{
+    padding: 15px;
+    color: white;
+    background-color: black;
+    
+   }
